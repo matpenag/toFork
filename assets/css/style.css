@@ -1,0 +1,59 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.header {
+  justify-content: space-between;
+  align-items: center;
+  height: 20em;
+  padding: 5em;
+  font-size: 2em;
+  background-color: grey;
+  color: white;
+  background-image: url("https://www.hola.com/horizon/landscape/89e8ac1d150e-chow-chow-1t-t.jpg");
+  background-size: cover;
+  background-position: left center;
+}
+.header h1 {
+  margin: 0px;
+  font-weight: 400;
+}
+.header p {
+  margin: 0px;
+  text-align: left;
+}
+
+.Disciplinas {
+  width: 80%;
+  margin: auto;
+  padding: 1em;
+}
+
+.Disciplinas td {
+  width: 50%;
+  padding: 2em;
+}
+
+.footer {
+  height: 3em;
+  line-height: 3m;
+  background-color: rgb(227, 237, 30);
+  color: black;
+  text-align: center;
+  font-weight: 900;
+}
+
+.ig_link {
+  color: #e4405f;
+  text-decoration: none;
+}
+
+.ig_link {
+  color: #e4405f;
+  text-decoration: none;
+}
+
+.inline {
+  display: inline-block;
+  margin: 10px;
+}
